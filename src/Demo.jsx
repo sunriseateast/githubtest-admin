@@ -1,7 +1,7 @@
 export default function Demo (){
     return(
         <div>
-            I am teammate
+            I am teammate 2
         </div>
     )
 }
